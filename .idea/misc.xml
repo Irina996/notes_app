@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/drawable/ic_vpn_key_black_24dp.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/font/abril_fatface.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/activity_add_note.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/activity_edit_note.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/activity_note_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/content_note_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/layout/nav_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/menu/close_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/FireNotes/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
